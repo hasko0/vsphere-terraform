@@ -1,2 +1,2 @@
-VMware automation using terraform vspsher
+VMware automation  using terraform
 
